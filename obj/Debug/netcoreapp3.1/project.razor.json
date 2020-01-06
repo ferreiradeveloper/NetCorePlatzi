@@ -20521,6 +20521,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Preparacion\\NetCorePlatzi\\Views\\Shared\\Simple.cshtml",
+      "TargetPath": "Views\\Shared\\Simple.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Preparacion\\NetCorePlatzi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"

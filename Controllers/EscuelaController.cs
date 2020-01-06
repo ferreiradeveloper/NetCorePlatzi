@@ -13,6 +13,8 @@ namespace NetCorePlatzi.Controllers
             escuela.AnioFundacion = 2005;
             escuela.EscuelaId = Guid.NewGuid().ToString(); 
             escuela.Nombre = "Platzi School";
+
+            ViewBag.CosaDinamica = "El Monje";
             return View(escuela);
         }
     }

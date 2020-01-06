@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Preparacion\\NetCorePlatzi\\NetCorePlatzi.csproj": {}
+    "C:\\Preparacion\\NetCorePlatzi\\NetCorePlatzi.csproj": {}
   },
   "projects": {
-    "c:\\Preparacion\\NetCorePlatzi\\NetCorePlatzi.csproj": {
+    "C:\\Preparacion\\NetCorePlatzi\\NetCorePlatzi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Preparacion\\NetCorePlatzi\\NetCorePlatzi.csproj",
+        "projectUniqueName": "C:\\Preparacion\\NetCorePlatzi\\NetCorePlatzi.csproj",
         "projectName": "NetCorePlatzi",
-        "projectPath": "c:\\Preparacion\\NetCorePlatzi\\NetCorePlatzi.csproj",
+        "projectPath": "C:\\Preparacion\\NetCorePlatzi\\NetCorePlatzi.csproj",
         "packagesPath": "C:\\Users\\ferre\\.nuget\\packages\\",
-        "outputPath": "c:\\Preparacion\\NetCorePlatzi\\obj\\",
+        "outputPath": "C:\\Preparacion\\NetCorePlatzi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

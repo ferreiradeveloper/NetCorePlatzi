@@ -34,3 +34,4 @@ c:\Preparacion\NetCorePlatzi\obj\Debug\netcoreapp3.1\NetCorePlatzi.dll
 c:\Preparacion\NetCorePlatzi\obj\Debug\netcoreapp3.1\NetCorePlatzi.pdb
 C:\Preparacion\NetCorePlatzi\obj\Debug\netcoreapp3.1\NetCorePlatzi.csproj.CopyComplete
 c:\Preparacion\NetCorePlatzi\obj\Debug\netcoreapp3.1\Razor\Views\Escuela\Index.cshtml.g.cs
+c:\Preparacion\NetCorePlatzi\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Simple.cshtml.g.cs
