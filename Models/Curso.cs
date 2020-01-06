@@ -1,6 +1,6 @@
 using System;
 using System.Collections.Generic;
-using CoreEscuela.Util;
+
 
 namespace NetCorePlatzi.Models
 {
@@ -13,11 +13,6 @@ namespace NetCorePlatzi.Models
         public string Dirección { get; set; }
 
 
-        public void LimpiarLugar()
-        {
-            Printer.DrawLine();
-            Console.WriteLine("Limpiando Establecimiento...");
-            Console.WriteLine($"Curso {Nombre} Limpio");
-        }
+       
     }
 }

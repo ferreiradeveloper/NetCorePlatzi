@@ -27,6 +27,10 @@ namespace NetCorePlatzi.Models
             Ciudad = ciudad;
         }
 
+        public Escuela(){
+            
+        }
+
         public override string ToString()
         {
             return $"Nombre: \"{Nombre}\", Tipo: {TipoEscuela} {System.Environment.NewLine} Pais: {Pais}, Ciudad:{Ciudad}";

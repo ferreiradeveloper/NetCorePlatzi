@@ -10,9 +10,13 @@ namespace NetCorePlatzi.Controllers
         {
             var escuela = new Escuela();
 
-            escuela.AnioFundacion = 2005;
-            escuela.EscuelaId = Guid.NewGuid().ToString(); 
+            escuela.AñoDeCreación = 2005;
+            escuela.UniqueId = Guid.NewGuid().ToString(); 
             escuela.Nombre = "Platzi School";
+            escuela.Pais = "España";
+            escuela.Ciudad = "Madrid";
+            escuela.TipoEscuela =TiposEscuela.Secundaria; 
+            escuela.Dirección = "Carrer de Claramunt 34";   
 
             ViewBag.CosaDinamica = "El Monje";
             return View(escuela);
